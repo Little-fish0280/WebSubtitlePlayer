@@ -5,7 +5,7 @@
   "homepage": "https://qiming-liu.github.io/WebSubtitlePlayer",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=./",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
